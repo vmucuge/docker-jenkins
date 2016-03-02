@@ -1,4 +1,5 @@
 # docker-jenkins
 Docker Jenkins Workshop
 
-Initial commit
+```
+Use Vagrant, docker-compose for testing and training
