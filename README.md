@@ -1,8 +1,7 @@
-# docker-jenkins
-Docker Jenkins Workshop
+# docker-compose
+Docker compose
 
-```
-Use Vagrant, docker-compose for testing and training
+Use Vagrant, docker-compose for testing and integrate with Jenkins
 
 A Vagrant provisioner for [Docker Compose](https://docs.docker.com/compose/). Installs Docker Compose and can also bring up the containers defined by a [docker-compose.yml](https://docs.docker.com/compose/yml/).
 
